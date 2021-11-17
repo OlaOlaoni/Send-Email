@@ -1,0 +1,2 @@
+secure-smtplib
+python-decouple==3.3

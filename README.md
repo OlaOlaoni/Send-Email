@@ -15,7 +15,7 @@ We'll also be using and [python-decouple](https://github.com/henriquebastos/pyth
 python-decouple==3.3
 ```
 
-# Next, create an environment file called .env in the base directory:
+# Next, create an environment file called .env in the base directory to saved our password:
 ```
 password="your_password"
 ```
